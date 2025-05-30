@@ -5,29 +5,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portafolio Básico con Tailwind</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    <style>
-        html {
-            scroll-behavior: smooth;
-        }
-    </style>
 </head>
 <body class="bg-slate-900 text-slate-300 font-sans">
-
-    <div class="container mx-auto px-4">
-
+    <div class="container mx-auto px-4 sm:px-8 md:px-12">
         <header class="text-center py-16 md:py-20">
             <img src="img/techSchool.png" alt="Logotipo"
-            class="mx-auto mb-4 h-12 md:h-20 mb-9">
+            class="mx-auto h-12 md:h-20 mb-9">
             <img src="img/avatar.png" alt="Mi Avatar"
                  class="w-24 h-24 md:w-32 md:h-32 rounded-full mx-auto mb-6 border-4 border-purple-500 shadow-lg">
-            <h1 class="text-3xl sm:text-4xl md:text-5xl font-bold text-white mb-4">
-                Juzga un libro por <span class="bg-gradient-to-r from-pink-500 to-purple-500 bg-clip-text text-transparent">su_portada</span>
+            <h1 class="text-3xl sm:text-4xl md:text-4xl font-bold text-white my-4">
+                Mi primer <span class="bg-gradient-to-r from-pink-500 to-purple-500 bg-clip-text text-transparent"> Portafolio con Tailwind CSS 🌀</span>
             </h1>
-            <p class="text-md md:text-lg max-w-2xl mx-auto text-slate-400">
-                Me gusta crear interfaces que no solo se ven bien, sino que también se sienten bien. Cada línea de código que escribo busca hacer más humana la experiencia digital. Este portafolio es solo la portada… lo bueno viene adentro.
-            </p>
+            <p class="text-md text-justify md:text-lg max-w-4xl mx-auto text-slate-400">Me especializo en desarrollar interfaces claras, funcionales y centradas en el usuario. Busco que cada línea de código aporte a una mejor experiencia digital.
+                Soy docente en la <span class="font-bold">Escuela de Informática y Telecomunicaciones 💙 de Duoc UC, sede Puerto Montt</span>. Disfruto aprender, enseñar y compartir lo que sé, convencido de que el conocimiento crece al ser compartido.</p>
         </header>
-
         <section id="tecnologias" class="py-12">
             <h2 class="text-2xl md:text-3xl font-semibold text-white text-center mb-10">
                 Tecnologías
@@ -37,22 +28,22 @@
                 <div class="p-3 bg-slate-800 rounded-full transform hover:scale-110 transition-transform">
                     <img src="img/js.png" alt="JavaScript" class="h-10 w-10 md:h-12 md:w-12">
                 </div>
-
                 <div class="p-3 bg-slate-800 rounded-full transform hover:scale-110 transition-transform">
-                     <img src="img/react.png" alt="Tailwind" class="h-10 w-10 md:h-12 md:w-12">
-                </div>
-
-                <div class="p-3 bg-slate-800 rounded-full transform hover:scale-110 transition-transform">
-                    <img src="img/figma.png" alt="Tailwind" class="h-10 w-10 md:h-12 md:w-12">
+                    <img src="img/figma.png" alt="figma" class="h-10 w-10 md:h-12 md:w-12">
                </div>
 
                <div class="p-3 bg-slate-800 rounded-full transform hover:scale-110 transition-transform">
                 <img src="img/css.png" alt="Tailwind" class="h-10 w-10 md:h-12 md:w-12">
                 </div>
-
+                <div class="p-3 bg-slate-800 rounded-full transform hover:scale-110 transition-transform">
+                    <img src="img/vue.png" alt="Tailwind" class="h-10 w-10 md:h-12 md:w-12">
+                    </div>
+                <div class="p-3 bg-slate-800 rounded-full transform hover:scale-110 transition-transform">
+                    <img src="img/tailwind.png" alt="Tailwind" class="h-10 w-10 md:h-12 md:w-12">
+                </div>
+                
             </div>
         </section>
-
         <section id="proyectos" class="py-12">
             <h2 class="text-2xl md:text-3xl font-semibold text-white text-center mb-10">
                 Proyectos
@@ -61,63 +52,65 @@
                 <!-- Proyecto 1 -->
                 <div class="bg-gradient-to-tr from-slate-800 to-slate-700 rounded-xl shadow-lg overflow-hidden">
                   <div class="aspect-[16/9]">
-                    <img src="img/tech2.png" alt="Proyecto 3" class="w-full h-full object-cover">
+                    <img src="img/techpm.png" alt="Proyecto 3" class="w-full h-full object-cover">
                   </div>
-                  <div class="p-4 text-center">
-                    <h3 class="text-white font-bold text-lg">Landing Page Personal</h3>
-                    <p class="text-slate-400 text-sm mb-3">Diseño mobile-first con animaciones y formularios.</p>
-                    <a href="#" class="bg-purple-600 hover:bg-purple-900 transition text-white py-1 px-3 rounded text-sm">Ver proyecto</a>
+                  <div class="p-5 text-center">
+                    <h3 class="text-white font-bold text-lg pb-2">TechSchool Puerto Montt</h3>
+                    <p class="text-slate-400 text-sm mb-3 text-justify">Evento interregional que reúne a estudiantes y profesionales en talleres prácticos de desarrollo digital, programación y diseño. Fomenta la innovación y la colaboración tecnológica en el sur de Chile.</p>
+                    <a href="#" class="bg-purple-600 hover:bg-purple-900 transition text-white py-2 px-4 rounded text-sm">Ver proyecto</a>
                   </div>
                 </div>
-
                  <!-- Proyecto 2 -->
                 <div class="bg-gradient-to-tr from-slate-800 to-slate-700 rounded-xl shadow-lg overflow-hidden">
                   <div class="aspect-[16/9]">
-                    <img src="img/tech2.png" alt="Proyecto 3" class="w-full h-full object-cover">
+                    <img src="img/duocpm.png" alt="Proyecto 3" class="w-full h-full object-cover">
                   </div>
-                  <div class="p-4 text-center">
-                    <h3 class="text-white font-bold text-lg">Landing Page Personal</h3>
-                    <p class="text-slate-400 text-sm mb-3">Diseño mobile-first con animaciones y formularios.</p>
-                    <a href="#" class="bg-purple-600 hover:bg-purple-900 transition text-white py-1 px-3 rounded text-sm">Ver proyecto</a>
+                  <div class="p-5 text-center">
+                    <h3 class="text-white font-bold text-lg pb-2">Landing Page Personal</h3>
+                    <p class="text-slate-400 text-sm mb-3 text-justify">Duoc UC Puerto Montt, a través del CITT y la Escuela de Informática, forma profesionales especializados en ciencia de datos y desarrollo de software, con enfoque práctico y vinculación directa con la industria.</p>
+                    <a href="#" class="bg-purple-600 hover:bg-purple-900 transition text-white py-2 px-4 rounded text-sm">Ver proyecto</a>
                   </div>
                 </div>
-
                  <!-- Proyecto 3 -->
-                <div class="bg-gradient-to-tr from-slate-800 to-slate-700 rounded-xl shadow-lg overflow-hidden">
-                  <div class="aspect-[16/9]">
-                    <img src="img/tech2.png" alt="Proyecto 3" class="w-full h-full object-cover">
-                  </div>
-                  <div class="p-4 text-center">
-                    <h3 class="text-white font-bold text-lg">Landing Page Personal</h3>
-                    <p class="text-slate-400 text-sm mb-3">Diseño mobile-first con animaciones y formularios.</p>
-                    <a href="#" class="bg-purple-600 hover:bg-purple-900 transition text-white py-1 px-3 rounded text-sm">Ver proyecto</a>
-                  </div>
-                </div>
-              
-              </div>
-              
-        </section>
-
-        <section id="certificaciones" class="py-12">
-            <h2 class="text-2xl md:text-3xl font-semibold text-white text-center mb-10">
-                Certificaciones
-            </h2>
-            <div class="max-w-md mx-auto"> 
-                <div class="bg-slate-800 rounded-lg shadow-xl overflow-hidden">
-                    <img  src="img/tech.png" alt="Certificado Ejemplo"
-                         class="w-full h-48 object-contain bg-slate-200 p-2"> 
-                    <div class="p-5 text-center">
-                        <h3 class="text-lg font-semibold text-white">Título de Certificación</h3>
+                 <div class="bg-gradient-to-tr from-slate-800 to-slate-700 rounded-xl shadow-lg overflow-hidden">
+                    <div class="aspect-[16/9]">
+                      <img src="img/techpm.png" alt="Proyecto 3" class="w-full h-full object-cover">
                     </div>
-                </div>
-            </div>
+                    <div class="p-5 text-center">
+                      <h3 class="text-white font-bold text-lg pb-2">TechSchool Puerto Montt</h3>
+                      <p class="text-slate-400 text-sm mb-3 text-justify">Evento interregional que reúne a estudiantes y profesionales en talleres prácticos de desarrollo digital, programación y diseño. Fomenta la innovación y la colaboración tecnológica en el sur de Chile.</p>
+                      <a href="#" class="bg-purple-600 hover:bg-purple-900 transition text-white py-2 px-4 rounded text-sm">Ver proyecto</a>
+                    </div>
+                  </div>
+              </div>
         </section>
-
+        <section class="max-w-6xl mx-auto  text-white py-10 px-4 sm:px-6 md:px-8 rounded-2xl  mt-12">
+            <h2 class="text-2xl md:text-3xl font-semibold text-white text-center mb-10">
+                CV
+            </h2>
+            <div class=" mx-auto">
+              <!-- Visor de PDF embebido -->
+              <div class="w-full h-[480px] rounded-lg overflow-hidden border border-slate-700 shadow-lg mb-6">
+                <iframe 
+                  src="cv.pdf" 
+                  class="w-full h-full"
+                  frameborder="0">
+                </iframe>
+              </div>
+              <!-- Botón de descarga centrado -->
+              <div class="text-center">
+                <a 
+                  href="cv.pdf" download class="bg-purple-600 hover:bg-purple-900 transition text-white py-3 px-5 rounded text-sm">
+                  Descargar CV
+                </a>
+              </div>
+            </div>
+          </section>
         <section id="contacto" class="py-12 md:py-16">
             <h2 class="text-2xl md:text-3xl font-semibold text-white text-center mb-10">
                 ¡Hablemos!
             </h2>
-            <form action="#" method="POST" class="max-w-lg mx-auto space-y-5 bg-slate-800 p-6 md:p-8 rounded-lg shadow-xl">
+            <form action="#" method="POST" class="max-w-2xl mx-auto space-y-5 bg-slate-800 p-6 md:p-8 rounded-lg shadow-xl">
                 <div>
                     <input type="text" placeholder="Tu Nombre"
                            class="w-full p-3 bg-slate-700 border border-slate-600 rounded-md text-slate-200 placeholder-slate-400 focus:ring-2 focus:ring-purple-500 focus:border-purple-500">
@@ -138,7 +131,6 @@
                 </div>
             </form>
         </section>
-
         <footer class="border-t border-slate-700 mt-16 py-10">
             <div class="container mx-auto px-4 text-center text-slate-400">
                 <div class="flex justify-center items-center gap-6 mb-5">
@@ -153,7 +145,6 @@
                 </p>
             </div>
         </footer>
-
     </div>
 </body>
 </html>
