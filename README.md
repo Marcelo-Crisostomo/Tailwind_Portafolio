@@ -19,7 +19,10 @@ Este trabajo forma parte de las actividades impulsadas por el **CITT** y la **Es
 
 ## 🔗 Enlace del taller
 
-> 👉 Pronto...
+> 👉 ## 🔗 Enlace del taller
+
+> 👉 [Ver portafolio publicado](https://marcelo-crisostomo.github.io/Tailwind_Portafolio/)
+
 
 
 ## 📄 Licencia
