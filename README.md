@@ -17,11 +17,13 @@ El portafolio fue construido utilizando **HTML5** y **Tailwind CSS**, aplicando 
 
 Este trabajo forma parte de las actividades impulsadas por el **CITT** y la **Escuela de Informática y Telecomunicaciones** de **Duoc UC, sede Puerto Montt**, donde se promueve el aprendizaje práctico y colaborativo.
 
-## 🔗 Enlace del taller
+## 🔗 Enlace guía del taller 
 
-> 👉 ## 🔗 Enlace del taller
+ [Ver portafolio publicado](https://marcelo-crisostomo.github.io/Tailwind_Portafolio/)
 
-> 👉 [Ver portafolio publicado](https://marcelo-crisostomo.github.io/Tailwind_Portafolio/)
+## 🔗 Enlace Guía online de Notion
+
+ [Ver portafolio publicado](https://quilt-canary-969.notion.site/Taller-de-Tailwind-Estudiante-2045b3c4e312808eb878db80743ebe7a?source=copy_link)
 
 
 
