@@ -23,7 +23,7 @@ Este trabajo forma parte de las actividades impulsadas por el **CITT** y la **Es
 
 
 ## 🔗 Enlace Guía online de Notion
- [Ver portafolio publicado](https://quilt-canary-969.notion.site/Taller-de-Tailwind-Estudiante-2045b3c4e312808eb878db80743ebe7a?source=copy_link)
+ [Ver Guía de Notion](https://quilt-canary-969.notion.site/Taller-de-Tailwind-Estudiante-2045b3c4e312808eb878db80743ebe7a?source=copy_link)
 
 
 
