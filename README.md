@@ -33,4 +33,4 @@ Este proyecto se comparte con fines educativos y sin fines de lucro. Si lo usas,
 
 ---
 
-Hecho con ❤️ por **Marcelo Crisóstomo Carrasco**
+Hecho con 🔥 por **Marcelo Crisóstomo Carrasco**
