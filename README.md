@@ -1,6 +1,6 @@
 # 🌀 Portafolio con Tailwind CSS
 
-![TechSchool Logo](img/techSchool.png)
+![TechSchool Logo](img/techSchool2.png)
 ![Duoc UC Logo](img/duoc.png)
 
 ## 🧠 Descripción del proyecto
