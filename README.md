@@ -1,6 +1,6 @@
 # 🌀 Portafolio con Tailwind CSS
 
-![TechSchool Logo](img/techSchool.png)
+![TechSchool Logo](img/techSchool2.png)
 ![Duoc UC Logo](img/duoc.png)
 
 ## 🧠 Descripción del proyecto
@@ -31,12 +31,17 @@ Este trabajo forma parte de las actividades impulsadas por el **CITT** y la **Es
 🔗 **Sitio Web TechSchool :**  
 [https://techschool-latam.com/](https://techschool-latam.com/)
 
+<<<<<<< HEAD
+=======
+## 🔗 Enlace Guía online de Notion
+ [Ver Guía de Notion](https://quilt-canary-969.notion.site/Taller-de-Tailwind-Estudiante-2045b3c4e312808eb878db80743ebe7a?source=copy_link)
+>>>>>>> 68db2b2599aa3297cbceb8fd179356ec68afcaf8
 
 
 
 ## 📄 Licencia
 
-Este proyecto se comparte con fines educativos y sin fines de lucro. Si lo usas, no olvides mencionar la fuente o dejar una estrella ⭐ en GitHub.
+Este proyecto se comparte con fines educativos y sin fines de lucro. Si lo usas, no olvides mencionar la fuente o dejar una estrella ⭐ en GitHub
 
 ---
 
