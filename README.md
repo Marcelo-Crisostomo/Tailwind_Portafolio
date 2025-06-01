@@ -17,13 +17,20 @@ El portafolio fue construido utilizando **HTML5** y **Tailwind CSS**, aplicando 
 
 Este trabajo forma parte de las actividades impulsadas por el **CITT** y la **Escuela de Informática y Telecomunicaciones** de **Duoc UC, sede Puerto Montt**, donde se promueve el aprendizaje práctico y colaborativo.
 
-## 🔗 Enlace guía del taller 
+## 🧩 Enlaces de Apoyo
 
- [Ver portafolio publicado](https://marcelo-crisostomo.github.io/Tailwind_Portafolio/)
+🔗 **Guía paso a paso del taller (Notion):**  
+[https://quilt-canary-969.notion.site/Taller-de-Tailwind-Estudiante-2045b3c4e312808eb878db80743ebe7a](https://quilt-canary-969.notion.site/Taller-de-Tailwind-Estudiante-2045b3c4e312808eb878db80743ebe7a?source=copy_link)
 
+🔗 **Ejemplo final publicado (GitHub Pages):**  
+[https://marcelo-crisostomo.github.io/Tailwind_Portafolio/](https://marcelo-crisostomo.github.io/Tailwind_Portafolio/)
 
-## 🔗 Enlace Guía online de Notion
- [Ver portafolio publicado](https://quilt-canary-969.notion.site/Taller-de-Tailwind-Estudiante-2045b3c4e312808eb878db80743ebe7a?source=copy_link)
+🔗 **Carpeta Drive Video :**  
+[https://drive.google.com/drive/folders/15r_TKOlitZyJJHdsoEUjdd4QHAsrSbok?usp=sharing](https://drive.google.com/drive/folders/15r_TKOlitZyJJHdsoEUjdd4QHAsrSbok?usp=sharing)
+
+🔗 **Sitio Web TechSchool :**  
+[https://techschool-latam.com/](https://techschool-latam.com/)
+
 
 
 
